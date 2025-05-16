@@ -1,0 +1,49 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "TinyTown_Tilesheet.tsx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "FarmExpansion_Tilesheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "TilemapGame/Tiny Town Tiled.tmx": {
+            "scale": 3,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 35.16666666666663,
+                "y": -2
+            }
+        },
+        "TinyTown_Tilesheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/49203045/comp1151-pracwk9-tilemapgame-Debug0-0/Assets/Tiled/Tilemap",
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "TinyTown_Tilesheet.tsx",
+        "TilemapGame/Tiny Town Tiled.tmx"
+    ],
+    "project": "gameTilemap.tiled-project",
+    "recentFiles": [
+        "TilemapGame/Tiny Town Tiled.tmx",
+        "TinyTown_Tilesheet.tsx",
+        "FarmExpansion_Tilesheet.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.spacing": 1,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
